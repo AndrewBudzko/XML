@@ -1,27 +1,3 @@
-1. Базовая теория (Что такое тестирование, багрепорты, документация, виды, методы, направления тестирования и т.п.) SDLC, STLC.
-2. Что такое клиент-серверная архитектура.
-3. HTTP-методы запросов на сервер.
-4. Коды ответов HTTP сервера.
-5. Структуры HTTP запросов и ответов.
-6. Что такое JSON, XML. Их структура.
-7. Тестирование API через Postman (JS, автотесты API).
-8. Снятие и чтение логов c внешнего сервера.
-9. Снифинг http web трафика через Charles и Fiddler.
-10. Dev Tools веб браузеров (Google Chrome, FireFox).
-11. VPN. (Как работает, зачем нужен, как использовать, варианты инструментов)
-12. Мобильное тестирование.
-13. Особенность iOS, Android, гайдлайны.
-14. Сборка iOS приложений на XCode.
-15. Сборка Android приложений на Android Studio.
-16. ADB (управление андройд девайсами).
-17. Настройка прокси и vpn на iOS и Android.
-18. Перехват (сниффинг) мобильного трафика через Charles и Fiddler на iOS и Android.
-19. Командная строка (terminal) Linux (копирование, создание, просмотр, перемещение файлов на серверах без графического интерфейса).
-20. Основы bash скриптинг, автоматизация рутинных задач на сервере.
-21. Доступ к удалённым серверам.
-22. Основы SQL (Create, Delete, Drop, Insert Into, Select, From, Where, Join).
-23. База данных Postgres (установка, настройка и использование).
-24. Нереляционная база данных Redis (установка, настройка и использование).
-25. Нагрузочное тестирование в Jmeter.
-26. Методология разработки Scrum.
-27. Python. (Изучение основ. Создание клиент серверного приложения).
+<?xml version="1.0" encoding="UTF-8" ?>
+<Skill #1><Базовая теория>Что такое тестирование
+</Базовая теория><Базовая теория>Багрепортыundefined</Базовая теория><Базовая теория>Документацияundefined</Базовая теория><Базовая теория>Виды, методы, направления тестированияundefined</Базовая теория>undefined</Skill #1>undefined<Skill #2>Что такое клиент-серверная архитектура</Skill #2>undefined<Skill #3>HTTP-методы запросов на сервер</Skill #3>undefined<Skill #4>Коды ответов HTTP сервера</Skill #4>undefined<Skill #5>Структуры HTTP запросов и ответов</Skill #5>undefined<Skill #6>Что такое JSON, XML. Их структура</Skill #6>undefined<Skill #7>Тестирование API через Postman (JS, автотесты API)</Skill #7>undefined<Skill #8>Снятие и чтение логов c внешнего сервера</Skill #8>undefined<Skill #9>Снифинг http web трафика через Charles и Fiddler</Skill #9>undefined<Skill #10>undefined<Dev Tools веб браузеров>Google Chrome</Dev Tools веб браузеров>undefined<Dev Tools веб браузеров>FireFox</Dev Tools веб браузеров>undefined</Skill #10>undefined<Skill #11>undefined<VPN>Как работает</VPN>undefined<VPN>Для чего нужен</VPN>undefined<VPN>Как использовать</VPN>undefined<VPN>Варианты инструментов</VPN>undefined</Skill #11>undefined<Skill #12>Мобильное тестирование</Skill #12>undefined<Skill #13>Особенность iOS, Android, гайдлайны</Skill #13>undefined<Skill #14>Сборка iOS приложений на XCode</Skill #14>undefined<Skill #15>Сборка Android приложений на Android Studio</Skill #15>undefined<Skill #16>ADB (управление андройд девайсами)</Skill #16>undefined<Skill #17>Настройка прокси и vpn на iOS и Android</Skill #17>undefined<Skill #18>Перехват (сниффинг) мобильного трафика через Charles и Fiddler на iOS и Android</Skill #18>undefined<Skill #19>Командная строка (terminal) Linux (копирование, создание, просмотр, перемещение файлов на серверах без графического интерфейса)</Skill #19>undefined<Skill #20>Основы bash скриптинг, автоматизация рутинных задач на сервере</Skill #20>undefined<Skill #21>Доступ к удалённым серверам</Skill #21>undefined<Skill #22><Основы_SQL>Createundefined</Основы_SQL><Основы_SQL>Deleteundefined</Основы_SQL><Основы_SQL>Dropundefined</Основы_SQL><Основы_SQL>Insert Intoundefined</Основы_SQL><Основы_SQL>Selectundefined</Основы_SQL><Основы_SQL>Fromundefined</Основы_SQL><Основы_SQL>Whereundefined</Основы_SQL><Основы_SQL>Joinundefined</Основы_SQL>undefined</Skill #22>undefined<Skill #23>База данных Postgres (установка, настройка и использование)</Skill #23>undefined<Skill #24>Нереляционная база данных Redis (установка, настройка и использование)</Skill #24>undefined<Skill #25>Нагрузочное тестирование в Jmeter</Skill #25>undefined<Skill #26>Методология разработки Scrum</Skill #26>undefined<Skill #27>undefined<Python>Изучение основ</Python>undefined<Python>Создание клиент серверного приложения</Python>undefined</Skill #27>
