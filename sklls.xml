@@ -1,3 +1,29 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<Skill #1><Базовая теория>Что такое тестирование
-</Базовая теория><Базовая теория>Багрепортыundefined</Базовая теория><Базовая теория>Документацияundefined</Базовая теория><Базовая теория>Виды, методы, направления тестированияundefined</Базовая теория>undefined</Skill #1>undefined<Skill #2>Что такое клиент-серверная архитектура</Skill #2>undefined<Skill #3>HTTP-методы запросов на сервер</Skill #3>undefined<Skill #4>Коды ответов HTTP сервера</Skill #4>undefined<Skill #5>Структуры HTTP запросов и ответов</Skill #5>undefined<Skill #6>Что такое JSON, XML. Их структура</Skill #6>undefined<Skill #7>Тестирование API через Postman (JS, автотесты API)</Skill #7>undefined<Skill #8>Снятие и чтение логов c внешнего сервера</Skill #8>undefined<Skill #9>Снифинг http web трафика через Charles и Fiddler</Skill #9>undefined<Skill #10>undefined<Dev Tools веб браузеров>Google Chrome</Dev Tools веб браузеров>undefined<Dev Tools веб браузеров>FireFox</Dev Tools веб браузеров>undefined</Skill #10>undefined<Skill #11>undefined<VPN>Как работает</VPN>undefined<VPN>Для чего нужен</VPN>undefined<VPN>Как использовать</VPN>undefined<VPN>Варианты инструментов</VPN>undefined</Skill #11>undefined<Skill #12>Мобильное тестирование</Skill #12>undefined<Skill #13>Особенность iOS, Android, гайдлайны</Skill #13>undefined<Skill #14>Сборка iOS приложений на XCode</Skill #14>undefined<Skill #15>Сборка Android приложений на Android Studio</Skill #15>undefined<Skill #16>ADB (управление андройд девайсами)</Skill #16>undefined<Skill #17>Настройка прокси и vpn на iOS и Android</Skill #17>undefined<Skill #18>Перехват (сниффинг) мобильного трафика через Charles и Fiddler на iOS и Android</Skill #18>undefined<Skill #19>Командная строка (terminal) Linux (копирование, создание, просмотр, перемещение файлов на серверах без графического интерфейса)</Skill #19>undefined<Skill #20>Основы bash скриптинг, автоматизация рутинных задач на сервере</Skill #20>undefined<Skill #21>Доступ к удалённым серверам</Skill #21>undefined<Skill #22><Основы_SQL>Createundefined</Основы_SQL><Основы_SQL>Deleteundefined</Основы_SQL><Основы_SQL>Dropundefined</Основы_SQL><Основы_SQL>Insert Intoundefined</Основы_SQL><Основы_SQL>Selectundefined</Основы_SQL><Основы_SQL>Fromundefined</Основы_SQL><Основы_SQL>Whereundefined</Основы_SQL><Основы_SQL>Joinundefined</Основы_SQL>undefined</Skill #22>undefined<Skill #23>База данных Postgres (установка, настройка и использование)</Skill #23>undefined<Skill #24>Нереляционная база данных Redis (установка, настройка и использование)</Skill #24>undefined<Skill #25>Нагрузочное тестирование в Jmeter</Skill #25>undefined<Skill #26>Методология разработки Scrum</Skill #26>undefined<Skill #27>undefined<Python>Изучение основ</Python>undefined<Python>Создание клиент серверного приложения</Python>undefined</Skill #27>
+<Course_Skills>
+    <Skill1>Базовая теория: что такое тестирование, багрепорты, документация, виды, методы, направления тестирования</Skill1>    
+    <Skill2>Что такое клиент-серверная архитектура</Skill2>
+    <Skill3>HTTP-методы запросов на сервер</Skill3>
+    <Skill4>Коды ответов HTTP сервера</Skill4>
+    <Skill5>Структуры HTTP запросов и ответов</Skill5>
+    <Skill6>Что такое JSON, XML. Их структура</Skill6>
+    <Skill7>Тестирование API через Postman (JS, автотесты API)</Skill7>
+    <Skill8>Снятие и чтение логов c внешнего сервера</Skill8>
+    <Skill9>Снифинг http web трафика через Charles и Fiddler</Skill9>
+    <Skill10>Dev_Tools_веб_браузеров Google Chrome, FireFox</Skill10>
+    <Skill11>VPN. Как работает, для чего нужен, как использовать</Skill11>
+    <Skill12>Мобильное тестирование</Skill12>
+    <Skill13>Особенность iOS, Android, гайдлайны</Skill13>
+    <Skill14>Сборка iOS приложений на XCode</Skill14>
+    <Skill15>Сборка Android приложений на Android Studio</Skill15>
+    <Skill16>ADB (управление андройд девайсами)</Skill16>
+    <Skill17>Настройка прокси и vpn на iOS и Android</Skill17>
+    <Skill18>Перехват (сниффинг) мобильного трафика через Charles и Fiddler на iOS и Android</Skill18>
+    <Skill19>Командная строка (terminal) Linux (копирование, создание, просмотр, перемещение файлов на серверах без графического интерфейса)</Skill19>
+    <Skill20>Основы bash скриптинг, автоматизация рутинных задач на сервере</Skill20>
+    <Skill21>Доступ к удалённым серверам</Skill21>
+    <Skill22>Основы_SQL: Create, Delete, Drop, Insert Into, Selec, From, Where, Join</Skill22>
+    <Skill23>База данных Postgres (установка, настройка и использование)</Skill23>
+    <Skill24>Нереляционная база данных Redis (установка, настройка и использование)</Skill24>
+    <Skill25>Нагрузочное тестирование в Jmeter</Skill25>
+    <Skill26>Методология разработки Scrum</Skill26>
+    <Skill27>Python: изучение основ, создание клиент серверного приложения</Skill27>
+</Course_Skills>
